@@ -1,1 +1,1 @@
-SELECT * FROM Books
+UPDATE Books SET stock_count = 4 WHERE book_id = 2
